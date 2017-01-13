@@ -6,13 +6,13 @@ Heres the rundown:
 
 * Intros (minute or two, I am kind of assuming that we'll have a rotating cast of people, and I would actually think that would be neat, so its kind of important for this)
 * Topic 1 - some article of the week or something like that
-** The first topic would be something like a neat article one of us saw, that we can apply to our own worklives, that either does something really awesome or does something really dumb.  See my ep1 recommendations for ideas.
+    * The first topic would be something like a neat article one of us saw, that we can apply to our own worklives, that either does something really awesome or does something really dumb.  See my ep1 recommendations for ideas.
 * Topic 2 - Some interesting question that was seen on some blog somewhere
-** Basically, some interesting StackOverflow/reddit/quora kind of question that might be semi-controversial, but can have a rousing discussion
+    * Basically, some interesting StackOverflow/reddit/quora kind of question that might be semi-controversial, but can have a rousing discussion
 * Topic 3 - a discussion about an end-to-end issue and what we did to solve it
-** This is, by far, the most flexible.  I dont think we need to do it every time, but it might be interesting to try and abstract what we did during the week that caused us an issue, and talk about it.
+    * This is, by far, the most flexible.  I dont think we need to do it every time, but it might be interesting to try and abstract what we did during the week that caused us an issue, and talk about it.
 * Jim Throws Shoes
-** Basically, Jim comes up with some controversial topic that angers(or not) him, and we fight about it.
+    * Basically, Jim comes up with some controversial topic that angers(or not) him, and we fight about it.
 * Jon, Jon, and Sports
 * Reading Series
 
