@@ -13,6 +13,8 @@ Heres the rundown:
 ** This is, by far, the most flexible.  I dont think we need to do it every time, but it might be interesting to try and abstract what we did during the week that caused us an issue, and talk about it.
 * Jim Throws Shoes
 ** Basically, Jim comes up with some controversial topic that angers(or not) him, and we fight about it.
+* Jon, Jon, and Sports
+* Reading Series
 
 # Our Rotating cast of data dummies
 
