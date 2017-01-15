@@ -36,6 +36,7 @@ This is a proposed links file.  For now, if you particularly like one, edit this
     * Alex: 5  This one is good and could also lead to a discussion on how Data Scientists need to interact with non-data people
 * https://www.reddit.com/r/datascience/comments/54s3x2/productionalizing_work/
     * Votes!
+	* Alex: 4  Definitely one to talk about but may end up being too broad, maybe we can pick a hypothetical or real life example
 * http://partiallyderivative.com/resources/2016/2/17/5-commandments-improving-data-scientist-and-engineer-relations
     * Votes! 
 * https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/
