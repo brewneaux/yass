@@ -49,5 +49,6 @@ This is a proposed links file.  For now, if you particularly like one, edit this
 
 
 (note from Jon - I haven't read anything yet, just kind of dumped some links.  Tomorrowish, I'm going to start going through some stuff, and doing some notes as the first example)
+
 (not from Alex - I ranked those that I read.  Not sure if that's how we want to go about it)
 
