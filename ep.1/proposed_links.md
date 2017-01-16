@@ -42,8 +42,10 @@ This is a proposed links file.  For now, if you particularly like one, edit this
 	* 4 Alex: I like this one, I think we honor them decently well when working with BI but maybe not Dev
 * https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/
     * Votes!
+	* 1 Alex: I like this one a lot but not sure if it's ep1 material
 * http://www.kdnuggets.com/2016/01/portable-format-analytics-models-production.html
     * Votes!
+	* 6 Alex: Cool but a little specific for a podcast discussion (maybe)
 
 
 (note from Jon - I haven't read anything yet, just kind of dumped some links.  Tomorrowish, I'm going to start going through some stuff, and doing some notes as the first example)
